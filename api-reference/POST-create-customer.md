@@ -32,7 +32,7 @@ Used to create a new customer account.
 
 ## Success Response
 
-**Condition** : If everything is OK and an Account didn't exist for this Customer.
+**Condition** : All required fields are filled and there is no account created for this customer.
 
 **Code** : `201 CREATED`
 

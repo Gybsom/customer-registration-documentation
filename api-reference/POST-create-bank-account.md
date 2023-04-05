@@ -26,7 +26,7 @@ Used to create a new bank account, linked to a customer.
 {
     "id": "df82cf4f-bfa1-45db-ad12-dbb1e5b29acf",
     "iban": "BR6092702067124540003214324C1",
-    "bic": "john@example.com",
+    "bic": "ITAUBRSPXXX",
     "name": "Example Account",
     "customer_id": "c9a6acf9-6c2f-4dcd-b711-b926b32bbd1a"
 }
@@ -34,7 +34,7 @@ Used to create a new bank account, linked to a customer.
 
 ## Success Response
 
-**Condition** : If everything is OK.
+**Condition** : All required fields are filled.
 
 **Code** : `201 CREATED`
 
@@ -42,10 +42,11 @@ Used to create a new bank account, linked to a customer.
 
 ```json
 {
-    "id": "c9a6acf9-6c2f-4dcd-b711-b926b32bbd1a",
-    "name": "John Doe",
-    "email": "john@example.com",
-    "status": "blocked"
+    "id": "df82cf4f-bfa1-45db-ad12-dbb1e5b29acf",
+    "iban": "BR6092702067124540003214324C1",
+    "bic": "ITAUBRSPXXX",
+    "name": "Example Account",
+    "customer_id": "c9a6acf9-6c2f-4dcd-b711-b926b32bbd1a"
 }
 ```
 
