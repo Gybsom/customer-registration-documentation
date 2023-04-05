@@ -65,3 +65,7 @@ Used to create a new bank account, linked to a customer.
     ]
 }
 ```
+
+Go to [Activate Customer endpoint](/api-reference/POST-activate-customer.md)
+
+Or go back to [Introduction](/api-reference/introduction.md)

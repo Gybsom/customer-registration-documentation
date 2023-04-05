@@ -62,3 +62,7 @@ Used to create a new customer account.
     ]
 }
 ```
+
+Go to [Create Bank Account endpoint](/api-reference/POST-create-bank-account.md)
+
+Or go back to [Introduction](/api-reference/introduction.md)

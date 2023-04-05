@@ -64,3 +64,5 @@ Used to activate a new customer account.
     ]
 }
 ```
+
+Go back to [Introduction](/api-reference/introduction.md)
