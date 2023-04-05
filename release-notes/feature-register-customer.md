@@ -8,6 +8,6 @@ Status: `Released`
 
 We are glad to introduce our new feature, **Customer Registration**. With it, you can register your customers and their respective bank accounts, allowing them to transact on the platform.
 
-To learn more about this feature, visit this [guide](/guide/quick-start.md).
+To learn more about the feature, visit this [guide](/guide/quick-start.md).
 
 To know the endpoints that are part of this feature, access the [API Reference](/api-reference/introduction.md).
