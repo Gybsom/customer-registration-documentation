@@ -9,4 +9,4 @@ For this case, 3 sections were created to contextualize the information of this 
 ## Navigation links
 1. [Guide](/guide/quick-start.md)
 2. [API Reference](/api-reference/introduction.md)
-3. [Changelog](/changelog/feature-register-customer.md)
+3. [Release Notes](/release-notes/feature-register-customer.md)
